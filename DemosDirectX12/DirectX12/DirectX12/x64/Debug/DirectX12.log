@@ -1,0 +1,28 @@
+﻿  BoxApp.cpp
+D:\Projs\DirectX 12\DirectX\DemosDirectX12\DirectX12\Box\BoxApp.cpp(197,70): error C2102: '&' requires l-value
+D:\Projs\DirectX 12\DirectX\DemosDirectX12\DirectX12\Box\BoxApp.cpp(197,38): error C2102: '&' requires l-value
+D:\Projs\DirectX 12\DirectX\DemosDirectX12\DirectX12\Box\BoxApp.cpp(204,41): error C2102: '&' requires l-value
+D:\Projs\DirectX 12\DirectX\DemosDirectX12\DirectX12\Box\BoxApp.cpp(205,33): error C2102: '&' requires l-value
+D:\Projs\DirectX 12\DirectX\DemosDirectX12\DirectX12\Box\BoxApp.cpp(189,35): error C2102: '&' requires l-value
+D:\Projs\DirectX 12\DirectX\DemosDirectX12\DirectX12\Box\BoxApp.cpp(215,35): error C2102: '&' requires l-value
+  DDSTextureLoader.cpp
+D:\Projs\DirectX 12\DirectX\DemosDirectX12\DirectX12\Common\DDSTextureLoader.cpp(1273,4): error C2102: '&' requires l-value
+D:\Projs\DirectX 12\DirectX\DemosDirectX12\DirectX12\Common\DDSTextureLoader.cpp(1292,5): error C2102: '&' requires l-value
+D:\Projs\DirectX 12\DirectX\DemosDirectX12\DirectX12\Common\DDSTextureLoader.cpp(1294,5): error C2102: '&' requires l-value
+D:\Projs\DirectX 12\DirectX\DemosDirectX12\DirectX12\Common\DDSTextureLoader.cpp(1305,33): error C2102: '&' requires l-value
+D:\Projs\DirectX 12\DirectX\DemosDirectX12\DirectX12\Common\DDSTextureLoader.cpp(1311,33): error C2102: '&' requires l-value
+  GameTimer.cpp
+  MathHelper.cpp
+  d3dApp.cpp
+D:\Projs\DirectX 12\DirectX\DemosDirectX12\DirectX12\Common\d3dApp.cpp(199,5): error C2102: '&' requires l-value
+D:\Projs\DirectX 12\DirectX\DemosDirectX12\DirectX12\Common\d3dApp.cpp(216,35): error C2102: '&' requires l-value
+D:\Projs\DirectX 12\DirectX\DemosDirectX12\DirectX12\Common\d3dApp.cpp(547,24): error C2664: 'HANDLE CreateEventExW(LPSECURITY_ATTRIBUTES,LPCWSTR,DWORD,DWORD)': cannot convert argument 2 from 'bool' to 'LPCWSTR'
+D:\Projs\DirectX 12\DirectX\DemosDirectX12\DirectX12\Common\d3dApp.cpp(547,47): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\synchapi.h(599,1): message : see declaration of 'CreateEventExW'
+D:\Projs\DirectX 12\DirectX\DemosDirectX12\DirectX12\Common\d3dApp.cpp(547,24): message : while trying to match the argument list '(nullptr, bool, bool, long)'
+  d3dUtil.cpp
+D:\Projs\DirectX 12\DirectX\DemosDirectX12\DirectX12\Common\d3dUtil.cpp(48,5): error C2102: '&' requires l-value
+D:\Projs\DirectX 12\DirectX\DemosDirectX12\DirectX12\Common\d3dUtil.cpp(58,5): error C2102: '&' requires l-value
+D:\Projs\DirectX 12\DirectX\DemosDirectX12\DirectX12\Common\d3dUtil.cpp(76,30): error C2102: '&' requires l-value
+D:\Projs\DirectX 12\DirectX\DemosDirectX12\DirectX12\Common\d3dUtil.cpp(79,30): error C2102: '&' requires l-value
+  Generating Code...
